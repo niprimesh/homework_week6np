@@ -17,6 +17,7 @@ public class Programme_1 {
     public void m1() {
         System.out.println(a);
         System.out.println(b);
+        System.out.println(b);
     }
     //main method
     public static void main(String[] args) {
